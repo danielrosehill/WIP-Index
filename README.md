@@ -25,6 +25,11 @@ Projects currently being built or with clear next steps.
 | **Claude Code LAN Manager** | Repo for using Claude Code to manage local servers/homelabs | Update with LAN MCP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-LAN-Manager) |
 | **AI Workspace Planning Notes** | Spec/notes for an AI workspace (incl consolidating previous notes) | Update needed | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ai-Workspace-Planning-Notes) |
 | **MCP Vault** | MCP "Vault" project | To add | — |
+| **VoiceType** | Fork of Deepgram's Linux starter. CLI to GUI + hotkey support, API key editing, cost tracking | WIP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/VoiceType) |
+| **Chatterbox Turbo Local Inference** | Attempt to get a Chatterbox Turbo inference server running with ROCM | WIP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Chatterbox-Turbo-Local-Inference) |
+| **Software Pipeline** | Software distribution pipeline (PPA, packages, etc.) | WIP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Software-Pipeline) |
+| **Hebrew Date KDE Widget** | KDE Plasmoid for displaying the Hebrew calendar date | WIP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Hebrew-Date-KDE-Widget) |
+| **Deepgram Voice Keyboard Ubuntu** | Creating a good STT utility with cloud STT APIs | WIP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Deepgram-Voice-Keyboard-Ubuntu) |
 
 ---
 
@@ -80,6 +85,7 @@ Projects that should be modeled or rebuilt as graphical interfaces.
 | **AI Repo Manager** | AI app to enable smarter management of Github repositories | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Repo-Manager) |
 | **AI Text Rewriting Toolbox** | LLM text reformatting and rewriting toolbox comprised of many system prompts | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox) |
 | **Ideation Pipeline** | Pipeline of project and app ideas in various stages of development | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ideation-Pipeline) |
+| **AI Sysadmin** | Desktop maintenance utility (planning notes) | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Sysadmin) |
 
 ---
 
@@ -94,6 +100,8 @@ Projects that should be modeled or rebuilt as graphical interfaces.
 | **KDE Claude Runner** | WIP/Plan | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/KDE-Claude-Runner) |
 | **New Turn Claude Hook** | WIP/Planning for a Claude or other agent CLI hook | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/New-Turn-Claude-Hook) |
 | **Ubuntu AI Boot Agent** | WIP/Notes for AI post-boot health check | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ubuntu-AI-Boot-Agent) |
+| **Claude Konsole Launcher** | Launch utility for using Claude Code + Konsole in KDE Plasma | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Konsole-Launcher) |
+| **Claude Task Manager** | Tracking system for Claude Code | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Task-Manager) |
 
 ---
 
@@ -103,6 +111,9 @@ Projects that should be modeled or rebuilt as graphical interfaces.
 |---------|-------------|-------|
 | **Local Secrets MCP** | Notes/an idea for a local MCP handler for secrets that works in conjunction with a cloud API | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Local-Secrets-MCP) |
 | **Miklat MCP Data** | Data pipeline for Miklat MCP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Miklat-MCP-Data) |
+| **Cloud ASR MCP** | MCP for using various cloud ASR models for speech to text / transcription | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Cloud-ASR-MCP) |
+| **Local Transcription MCP** | MCP for local STT with cleanup on AMD GPU machines | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Local-Transcription-MCP) |
+| **MCP Server Ideas** | Plans/WIP for MCP servers | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/MCP-Server-Ideas) |
 
 ---
 
@@ -114,6 +125,8 @@ Projects that should be modeled or rebuilt as graphical interfaces.
 | **Voice Control Linux** | Claude-enhanced research for voice control platforms with Linux support | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Control-Linux) |
 | **VoiceBox** | Idea for a speech tech solution — specced out by Claude | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/VoiceBox) |
 | **Voicepad** | Planning notes for a macropad for STT users | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voicepad) |
+| **Linux Realtime Voice Typing** | Planning and research for real-time voice typing on Linux (Deepgram, Gemini, Parakeet) | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/linux-realtime-voice-typing) |
+| **Linux Voice Typing App Notes** | Planning notes for a voice typing tool | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Linux-Voice-Typing-App-Notes) |
 
 ---
 
@@ -124,6 +137,7 @@ Projects that should be modeled or rebuilt as graphical interfaces.
 | **KDE AC Controller Widget** | Controller for AC | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/KDE-AC-Controller-Widget) |
 | **Batch Optical Archivist** | Program for batching archival onto optical media | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Batch-Optical-Archivist) |
 | **Headless Home Assistant** | A couple of resources and nomenclature | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Headless-Home-Assistant) |
+| **Claude Rig Planner** | Template Claude space for computer upgrade planning | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Rig-Planner) |
 
 ---
 
@@ -135,6 +149,35 @@ Projects that should be modeled or rebuilt as graphical interfaces.
 | **Public Shelter Lists Israel** | Public shelter list data for Israel | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Public-Shelter-Lists-Israel) |
 | **Red Alert Warning Panel** | Red Alert warning UI design | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Warning-Panel) |
 | **Social Impact Bond Data** | Point-in-time analysis of impact bond data from INDIGO (Government Outcomes Lab, Oxford University) | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Social-Impact-Bond-Data) |
+| **Jerusalem LORA Planner** | Planning repo for Jerusalem LORA | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Jerusalem-LORA-Planner) |
+
+---
+
+## Claude Code Templates & Workspaces
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Claude Business Continuity Planner** | Claude workspace for business continuity planning | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Business-Continuity-Planner) |
+| **Claude Preparedness Planner** | Claude workspace for preparedness planning (template) | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Preparedness-Planner) |
+| **Claude Purchasing Assistant** | Template for Claude Code repo for purchase planning | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Purchasing-Assistant) |
+| **Claude Comms Strategist Template** | Claude Code template for communications strategy and planning | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Comms-Strategist-Template) |
+| **Claude Diary Planner Template** | Template Claude Code repo for workflow and time management planning | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Diary-Planner-Template) |
+| **Claude Hebrew Planner** | Planning workspace for learning Hebrew | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Hebrew-Planner) |
+
+---
+
+## Planning & Personal
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Project Arc** | Planning repository for house move | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Project-Arc) |
+| **Home Planning** | House renovations and space planning | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Home-Planning) |
+| **Depression Battleground** | Planning workspace for leveraging AI to fight depression and ADHD | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Depression-Battleground) |
+| **Therapy Questions** | Planning therapy questions | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Therapy-Questions) |
+| **Hebrew Tech Vocab** | Personal collection of tech words in Hebrew | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Hebrew-Tech-Vocab) |
+| **Internal Apps Ideation** | Ideation notes for internal apps planning | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Internal-Apps-Ideation) |
+| **Client Update Pipeline Notes** | Planning notes for a concept agentic emailing pipeline | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Client-Update-Pipeline-Notes) |
+| **Crying Baby Audio Scrub** | Experiment to see if crying baby audio can be scrubbed with audio inpainting | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Crying-Baby-Audio-Scrub) |
 
 ---
 
