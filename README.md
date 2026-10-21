@@ -1,7 +1,7 @@
 # WIP Index
 
 [![GitHub](https://img.shields.io/badge/GitHub-danielrosehill-blue?style=flat-square&logo=github)](https://github.com/danielrosehill)
-[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=flat-square&logo=github)](https://github.com/danielrosehill/Start-Here)
 [![WIP](https://img.shields.io/badge/Focus-Work%20In%20Progress-yellow?style=for-the-badge)](https://github.com/danielrosehill/WIP-Index)
 
 An index of work-in-progress repositories — projects at various stages of development, from early ideas and planning notes to partially built tools awaiting further work.
